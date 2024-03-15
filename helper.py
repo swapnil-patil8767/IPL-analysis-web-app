@@ -1,6 +1,6 @@
 import pandas as pd
 
-data1 = pd.read_csv(r'C:\Users\Akashay\Desktop\ipl-matches.csv')
+data1 = pd.read_csv(r"C:\Users\Akashay\Desktop\Web ipl data\ipl-matches.csv")
 data2 = pd.read_csv(r'C:\Users\Akashay\Desktop\IPL_Ball_by_Ball_2008_2022.csv')
 
 file_path = r"C:\Users\Akashay\Desktop\IPL project\most_runs_average_strikerate.csv"
